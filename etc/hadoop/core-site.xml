@@ -23,6 +23,6 @@
     </property>
     <property>
         <name>hadoop.tmp.dir</name>
-        <value>file:///C:/Users/Florent/Projets/hadoop-3.3.6/tmp</value>
+        <value>file:///C:/Users/Florent/Projets/hadoop-3.3.6/tmp</value> <!-- adapt this path -->
     </property>
 </configuration>

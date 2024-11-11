@@ -21,7 +21,7 @@
 @rem set JAVA_HOME in this file, so that it is correctly defined on
 @rem remote nodes.
 
-@rem The java implementation to use.  Required.
+@rem The java implementation to use.  Required. Change this line (PROGRA~1 is an alias without spaces). v
 set JAVA_HOME=C:\PROGRA~1\Java\jdk-8
 
 @rem The jsvc implementation to use. Jsvc is required to run secure datanodes.
